@@ -1,2 +1,2 @@
 # pySpark resources:
-* [LearningApacheSpark](https://runawayhorse001.github.io/LearningApacheSpark/)
+* [Learning Apache Spark by Wenqiang Feng](https://runawayhorse001.github.io/LearningApacheSpark/)
